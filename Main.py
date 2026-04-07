@@ -91,5 +91,3 @@ def run_scan(self):
     self.root.ids.output.text = text
 
 AppGUI().run()
-
-Ich will es als ApK haben mit vcn aber ohne vcn und Desktop installieren geht das?
