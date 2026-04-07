@@ -6,7 +6,9 @@ package.domain = org.pradagov
 source.dir = .
 source.include_exts = py,kv
 
-requirements = python3,kivy,requests,urllib3,chardet,idna,certifi
+version = 0.1
+
+requirements = python3,kivy,requests,urllib3,chardet,idna
 
 orientation = portrait
 fullscreen = 0
